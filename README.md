@@ -28,7 +28,7 @@
         }
         td 
         {
-            border: 1px solid gray;
+            border: 1px solid grey;
             padding: 5px;
         }
         .label 

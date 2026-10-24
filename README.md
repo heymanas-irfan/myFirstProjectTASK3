@@ -30,7 +30,6 @@ td {
     border: 1px solid grey;
     padding: 5px;
     background-color: blue;
-    color: white;
 }
         .label 
         {

@@ -21,8 +21,8 @@
         }
       table {
     width: 100%;
-    background-color: blue;
-    border: 1px solid blue;
+    background-color: skyblue;
+    border: 1px solid black;
     border-spacing: 2px;
 }
 

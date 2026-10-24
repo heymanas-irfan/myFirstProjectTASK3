@@ -19,18 +19,19 @@
             text-align: center;
             color: red;
         }
-        table 
-        {
-            width: 100%;
-            background-color: blue;
-            border: 1px solid blue;
-            border-spacing: 2px;
-        }
-        td 
-        {
-            border: 1px solid grey;
-            padding: 5px;
-        }
+      table {
+    width: 100%;
+    background-color: blue;
+    border: 1px solid blue;
+    border-spacing: 2px;
+}
+
+td {
+    border: 1px solid grey;
+    padding: 5px;
+    background-color: blue;
+    color: white;
+}
         .label 
         {
             text-align: right;

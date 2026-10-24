@@ -23,7 +23,7 @@
         {
             width: 100%;
             background-color: blue;
-            border: 1px solid black;
+            border: 1px solid blue;
             border-spacing: 2px;
         }
         td 

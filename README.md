@@ -1,5 +1,4 @@
 # myFirstProjectTASK3
-<!DOCTYPE html>
 <html>
 <head>
     <title>Hotel Reservation Form</title>
@@ -23,7 +22,7 @@
         table 
         {
             width: 100%;
-            background-color: skyblue;
+            background-color: blue;
             border: 1px solid black;
             border-spacing: 2px;
         }
